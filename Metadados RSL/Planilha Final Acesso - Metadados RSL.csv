@@ -1,0 +1,28 @@
+STRING DE BUSCA INICIAL,"(disinformation OR misinformation OR infodemic OR fake news) AND (WhatsApp OR Telegram  OR WeChat OR ""Instant Message"" or ""Messaging Service"" OR ""Messaging Platform"" OR “Messaging System”)",
+Validar String de busca,,
+Critérios de Exclusão  (VER ABA CRITÉRIOS),Repositórios,
+Critérios de Inclusão,PubMed,Francisco
+Repositório,ACM,Marcos
+,IEEE,Helom
+,Capes,Ana Bomfim
+,Scielo,
+,Web of Science,
+,Google Scholar - AQUI PEGAR 2~3 primeiras páginas Só!,
+,,
+,,
+introducao,,
+Related Work,,
+Metodologia,,
+Resultados,,
+,,
+,,
+No final de cada etapa o que vai ficar é o número,,
+1o etapa: Salvar o numero de resultados obtidos,,
+"2o etapa: exportar os resultados ""brutos"" e excluir ruidos obvios",,
+3o etapa: Juntar os datasets e dividir os artigos,,
+4a etapa: Ler titulo + Abstract e selecionar mais relevantes,,
+5 etapa: Sumarizar os artigos numa tabela,,
+,,
+6 etapa: Se precisar repetir e refinar a 4 etapa para diminuir os artigos,,
+7 etapa: Levantar dos artigos principais problemas relacionados a fake news apontados,,
+8 etapa: Levantar dos artigos principais soluções propostas,,
